@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.29.7",
     "@planetscale/database": "^1.16.0",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.29.4",
